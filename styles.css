@@ -1,0 +1,26 @@
+body {
+    background: #2f353a;
+}
+
+.white-bg {
+    background-color: #fff;
+    min-height: 90%;
+    text-align: center;
+}
+
+.list-group-home {
+    margin: 50px 0
+}
+
+.main-img {
+    text-align: center;
+    padding-top: 100px
+}
+
+.btn-play {
+    margin: 0 auto
+}
+
+.img-responsive {
+    padding-top: 20px
+}
